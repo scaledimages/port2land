@@ -66,3 +66,5 @@ output file name hard coded.
 If you wind up using this or otherwise find it helpful feel free to:
 
 [![buy me a coffee](https://assets.scaledimages.com/img/buy-me-a-coffee.png "Buy Me A Coffee")](https://www.buymeacoffee.com/scaledimages)
+
+and let me know what other options you would like to see added.
